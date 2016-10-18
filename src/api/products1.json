@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name":"Apple",
+    "title":"Apple",
+    "category":"fruits",
+    "price":13.72,
+    "shortDescription":"short descriptons",
+    "description":"Granny Smith, Royal Gala, Golden Delicious and Pink Lady are just a few of the thousands of different kinds of apple that are grown around the world! You can make dried apple rings at home - ask an adult to help you take out the core, thinly slice the apple and bake the rings in the oven at a low heat.",
+    "base64Preview": "",
+    "image":"../data/images/apple.png",
+    "largeImage":"../data/images/apple.png",
+    "inventory": 10
+  },
+  {
+    "id": 2,
+    "name":"Orange",
+    "title":"Orange",
+    "category":"fruits",
+    "price":11.23,
+    "shortDescription":"short descriptons",
+    "description":"Oranges are really famous - they are one of the most popular fruits in the world! Oranges grow best in countries such as Spain and Italy - where it's hot and sunny during the day and cooler at night. A glass of pure orange juice counts as one of your 5 A DAY. Try cutting an orange into quarters and freezing it to make a healthy icy treat!",
+    "base64Preview": "",
+    "image":"../data/images/orange.png",
+    "largeImage":"../data/images/orange.png",
+    "inventory": 10
+  },
+  {
+    "id": 3,
+    "name":"Banana",
+    "title":"Banana",
+    "category":"fruits",
+    "price":15.99,
+    "shortDescription":"short banana descriptons",
+    "description":"Bananas make a nutritious snack! They are a great source of energy and contain lots of vitamins and minerals, especially potassium, which is important to help cells, nerves and muscles in your body to work properly and it helps to lower blood pressure. They have a thick skin to protect them, which is green before bananas are ripe, and get more yellow in colour and sweeter in taste as they ripen. We peel away the skin and eat the soft fleshy part of the fruit underneath. Bananas grow in hanging clusters, sometimes called hands, on the banana plant in tropical regions like Southeast Asia. You can eat them raw, baked, dried or in a smoothie. Why don't you try mashing it up and have it with yoghurt or porridge or even on brown toast?",
+    "base64Preview": "",
+    "image":"../data/images/banana.png",
+    "largeImage":"../data/images/banana.png",
+    "inventory": 10
+  },{
+    "id": 4,
+    "name":"Cherry",
+    "title":"Cherry",
+    "category":"fruits",
+    "price":14.30,
+    "shortDescription":"short Cherry descriptons",
+    "description":"Cherries are stone fruits - just like their friends the apricots. A cherry tree can carry on producing fruit for 100 years! Cherries grow from stalks in pairs. Ahhh! Sweet ones like the Bing cherry are nicest on their own or in a fruit salad. Sour ones like Morello cherries are tastier cooked.",
+    "base64Preview": "",
+    "image":"/data/images/Cherry.jpg",
+    "largeImage":"/data/images/Cherry.jpg",
+    "inventory": 1
+  },{
+    "id": 5,
+    "name":"Apricot",
+    "title":"Apricot",
+    "category":"fruits",
+    "price":14.40,
+    "shortDescription":"Just Apricot (short description)",
+    "description":"Apricots can be eaten fresh or dried - both are packed with vitamins! Fresh apricots have a soft and slightly furry skin. They make a good lunchbox snack. Apricots are also high in beta-carotene - this helps us keep our eyes and skin healthy.",
+    "base64Preview": "",
+    "image":"/data/images/apricot.jpg",
+    "largeImage":"../../data/images/apricot.jpg",
+    "inventory": 1
+  }
+]

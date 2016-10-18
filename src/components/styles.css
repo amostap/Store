@@ -1,0 +1,26 @@
+.thumbnail .caption {
+    padding: 0 8px;
+    color: #F7F7F7;
+  }
+
+  body{
+    /*background-color: #F9FAFC;*/
+    background-color: #fdfdfd;
+  }
+
+  .thumbnail {
+
+      border-radius: 1px;
+      -webkit-transition: box-shadow 0.1s;
+      transition: box-shadow 0.1s;
+    }
+
+  .thumbnail:hover {
+      box-shadow: 1px 1px 10px -2px gray;
+      -webkit-transition: box-shadow 0.1s;
+      transition: box-shadow 0.1s;
+    }
+
+    .link:hover{
+      text-decoration: none;
+    }
